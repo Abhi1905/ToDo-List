@@ -34,7 +34,7 @@ const Login = () => {
                 return
             }
 
-            const res = await axios.post(`${process.env.REACT_APP_API}/v1/u/login`,{
+            const res = await axios.post('https://todo-list-z4el.onrender.com/api/v1/u/login',{
                 email,
                 password
             })
