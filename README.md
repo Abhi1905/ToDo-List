@@ -86,8 +86,7 @@ JWT_SECRET=your_jwt_secret
 
 ## Live Demo
 
-- **Frontend URL**: [Your Vercel/Netlify URL](https://your-frontend-url)
-- **Backend URL**: [Your Heroku URL](https://your-backend-url)
+- **LINK** - [Click Here](https://endearing-douhua-c0789f.netlify.app/)
 
 ## Optional Additions
 
@@ -97,6 +96,6 @@ JWT_SECRET=your_jwt_secret
 
 ## Author
 
-- **Your Name** - [Your LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/abhijaysrivastava25/)) | [Your GitHub](https://github.com/Abhi1905)
+- **Abhijay Srivastava** - [Your LinkedIn](https://www.linkedin.com/in/abhijaysrivastava25/) | [Your GitHub](https://github.com/Abhi1905)
 
 
